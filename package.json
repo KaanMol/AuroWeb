@@ -1,10 +1,10 @@
 {
   "name": "krypton",
   "version": "0.0.1",
-  "description": "Krypton proof of concept server",
+  "description": "Lol",
   "main": "server.js",
   "author": {
-    "name": "Kaan Mollaoglu & Pim Munne"
+    "name": "Kaan Mol"
   },
   "scripts": {
     "dev": "set NODE_ENV=development&&node server.js"
