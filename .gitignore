@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/.vs
+/bin
+.idea
+/node_modules
+*sln
+*njsproj
+/build
+/modules/cdn
+/obj
+/server/*.js
